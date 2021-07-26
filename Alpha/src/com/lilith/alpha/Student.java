@@ -1,6 +1,5 @@
 package com.lilith.alpha;
 
-import javax.jws.Oneway;
 import java.util.Objects;
 
 /**
